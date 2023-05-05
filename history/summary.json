@@ -1,45 +1,5 @@
 [
   {
-    "name": "Main Site",
-    "url": "https://skiptheswipes.com",
-    "icon": "https://icons.duckduckgo.com/ip3/skiptheswipes.com.ico",
-    "slug": "main-site",
-    "status": "up",
-    "uptime": "46.25%",
-    "uptimeDay": "46.25%",
-    "uptimeWeek": "46.25%",
-    "uptimeMonth": "46.25%",
-    "uptimeYear": "46.25%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
-    "dailyMinutesDown": {
-      "2023-05-05": 18
-    }
-  },
-  {
-    "name": "API",
-    "url": "https://api.skiptheswipes.com",
-    "icon": "https://icons.duckduckgo.com/ip3/api.skiptheswipes.com.ico",
-    "slug": "api",
-    "status": "up",
-    "uptime": "46.26%",
-    "uptimeDay": "46.26%",
-    "uptimeWeek": "46.26%",
-    "uptimeMonth": "46.26%",
-    "uptimeYear": "46.26%",
-    "time": 79,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
-    "dailyMinutesDown": {
-      "2023-05-05": 18
-    }
-  },
-  {
     "name": "Webstore (Skip The Swag)",
     "url": "https://skiptheswag.com",
     "icon": "https://icons.duckduckgo.com/ip3/skiptheswag.com.ico",
@@ -50,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   }
 ]
