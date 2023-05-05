@@ -16,9 +16,9 @@ status-website:
   cname: status2.skiptheswipes.com
   #baseUrl: SkipTheSwipes/upptime
   logoUrl: https://raw.githubusercontent.com/SkipTheSwipes/upptime/master/assets/logo.svg
-  name: "Skip The Swipes Live STatus"
+  name: "Skip The Swipes Live Status"
   introTitle: "Live status tracking for Skip The Swipes services."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Track our websites and services with ease using our real-time status page. Our page offers up-to-the-minute information on the performance of our systems, so you can stay informed about any issues.
   navbar:
     - title: Status
       href: /
