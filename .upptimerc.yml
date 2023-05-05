@@ -18,9 +18,7 @@ sites:
   - name: WhatsApp Server
     url: $WHATSAPP_SERVER
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-    expectedStatusCodes:
-      - 403                 
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"              
   - name: Webstore (Skip The Swag)
     url: https://skiptheswag.com
 
