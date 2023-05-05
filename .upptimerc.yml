@@ -36,9 +36,6 @@ status-website:
       href: https://skiptheswag.com/            
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-notifications: 
-  NOTIFICATION_SLACK: true
-  NOTIFICATION_SLACK_WEBHOOK: true
-  NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.slack_secret }}
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
