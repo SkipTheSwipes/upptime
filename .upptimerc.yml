@@ -23,7 +23,7 @@ sites:
     icon: https://cdn.shopify.com/s/files/1/0757/1341/3430/files/logo_2.png?v=1682285571&width=500
     url: https://skiptheswag.com
   - name: Notification Test
-    url: https://down.skiptheswag.com    
+    url: https://down2.skiptheswag.com    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain 
