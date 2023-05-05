@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whats-app-server",
     "status": "up",
-    "uptime": "5.43%",
-    "uptimeDay": "5.43%",
-    "uptimeWeek": "5.43%",
-    "uptimeMonth": "5.43%",
-    "uptimeYear": "5.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 139,
     "timeDay": 139,
     "timeWeek": 139,
     "timeMonth": 139,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2023-05-05": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webstore (Skip The Swag)",
