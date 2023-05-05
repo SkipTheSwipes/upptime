@@ -6,9 +6,17 @@ sites:
   - name: Main Site
     url: https://skiptheswipes.com
     __dangerous__disable_verify_peer: true
+      expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: API
     url: https://api.skiptheswipes.com
     __dangerous__disable_verify_peer: true
+      expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Webstore (Skip The Swag)
     url: https://skiptheswag.com
 
