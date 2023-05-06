@@ -10,6 +10,7 @@ sites:
     expectedStatusCodes:
       - 403      
   - name: Skip The Swipes API
+    icon: https://dev.skiptheswipes.com/uploads/company/36a33c5a9141fd720863542d4d074416.png
     url: https://api.skiptheswipes.com
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
