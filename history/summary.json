@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 48,
-    "timeWeek": 89,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "time": 91,
+    "timeDay": 102,
+    "timeWeek": 92,
+    "timeMonth": 91,
+    "timeYear": 91,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 48,
-    "timeWeek": 77,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "time": 83,
+    "timeDay": 88,
+    "timeWeek": 80,
+    "timeMonth": 83,
+    "timeYear": 83,
     "dailyMinutesDown": {}
   },
   {
@@ -46,12 +46,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 44,
-    "timeWeek": 73,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "time": 69,
+    "timeDay": 87,
+    "timeWeek": 79,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Discord Bot Server",
+    "url": "$DISCORD_BOT_SERVER",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "discord-bot-server",
+    "status": "down",
+    "uptime": "18.98%",
+    "uptimeDay": "18.98%",
+    "uptimeWeek": "18.98%",
+    "uptimeMonth": "18.98%",
+    "uptimeYear": "18.98%",
+    "time": 61,
+    "timeDay": 61,
+    "timeWeek": 61,
+    "timeMonth": 61,
+    "timeYear": 61,
+    "dailyMinutesDown": {
+      "2023-05-16": 0
+    }
   },
   {
     "name": "Skip The Swag",
@@ -64,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 175,
-    "timeWeek": 197,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 202,
+    "timeDay": 229,
+    "timeWeek": 205,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   }
 ]
