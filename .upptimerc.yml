@@ -19,10 +19,16 @@ sites:
   - name: Skip The Swipes WhatsApp Server
     url: $WHATSAPP_SERVER
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"              
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"      
+  - name: Discord Bot Server
+    url: $DISCORD_BOT_SERVER
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"            
   - name: Skip The Swag
     icon: https://cdn.shopify.com/s/files/1/0757/1341/3430/files/logo_2.png?v=1682285571&width=500
     url: https://skiptheswag.com
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain 
