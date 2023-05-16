@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "discord-bot-server",
     "status": "up",
-    "uptime": "4.38%",
-    "uptimeDay": "4.38%",
-    "uptimeWeek": "4.38%",
-    "uptimeMonth": "4.38%",
-    "uptimeYear": "4.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 95,
     "timeDay": 95,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
-    "dailyMinutesDown": {
-      "2023-05-16": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Skip The Swag",
