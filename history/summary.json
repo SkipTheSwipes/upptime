@@ -4,18 +4,20 @@
     "url": "https://skiptheswipes.com",
     "icon": "https://icons.duckduckgo.com/ip3/skiptheswipes.com.ico",
     "slug": "skip-the-swipes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 51,
-    "timeWeek": 77,
-    "timeMonth": 90,
-    "timeYear": 90,
-    "dailyMinutesDown": {}
+    "time": 89,
+    "timeDay": 54,
+    "timeWeek": 74,
+    "timeMonth": 89,
+    "timeYear": 89,
+    "dailyMinutesDown": {
+      "2023-05-26": 0
+    }
   },
   {
     "name": "Skip The Swipes API",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 48,
-    "timeWeek": 76,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "time": 81,
+    "timeDay": 50,
+    "timeWeek": 73,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 66,
-    "timeDay": 47,
-    "timeWeek": 62,
-    "timeMonth": 66,
-    "timeYear": 66,
+    "time": 64,
+    "timeDay": 43,
+    "timeWeek": 59,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 44,
-    "timeWeek": 76,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 83,
+    "timeDay": 48,
+    "timeWeek": 73,
+    "timeMonth": 83,
+    "timeYear": 83,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 105,
-    "timeWeek": 189,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "time": 198,
+    "timeDay": 94,
+    "timeWeek": 176,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   }
 ]
