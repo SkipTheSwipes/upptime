@@ -4,19 +4,19 @@
     "url": "https://skiptheswipes.com",
     "icon": "https://icons.duckduckgo.com/ip3/skiptheswipes.com.ico",
     "slug": "skip-the-swipes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 0,
-    "timeWeek": 387,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 154,
+    "timeDay": 449,
+    "timeWeek": 394,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-06-01": 1
+      "2023-06-01": 8
     }
   },
   {
