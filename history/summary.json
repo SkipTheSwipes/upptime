@@ -4,18 +4,20 @@
     "url": "https://skiptheswipes.com",
     "icon": "https://icons.duckduckgo.com/ip3/skiptheswipes.com.ico",
     "slug": "skip-the-swipes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 314,
-    "timeWeek": 349,
+    "timeDay": 0,
+    "timeWeek": 387,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 1
+    }
   },
   {
     "name": "Skip The Swipes API",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 134,
-    "timeWeek": 169,
+    "timeDay": 0,
+    "timeWeek": 185,
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 46,
-    "timeWeek": 73,
+    "timeDay": 0,
+    "timeWeek": 77,
     "timeMonth": 69,
     "timeYear": 69,
     "dailyMinutesDown": {}
@@ -65,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 143,
-    "timeWeek": 175,
+    "timeDay": 0,
+    "timeWeek": 191,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {}
@@ -83,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 138,
-    "timeWeek": 154,
+    "timeDay": 0,
+    "timeWeek": 160,
     "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {}
