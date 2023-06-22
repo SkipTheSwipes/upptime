@@ -22,18 +22,20 @@
     "url": "https://api.skiptheswipes.com",
     "icon": "https://api.skiptheswipes.com/assets/images/logo.png",
     "slug": "skip-the-swipes-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 147,
-    "timeWeek": 231,
-    "timeMonth": 182,
-    "timeYear": 134,
-    "dailyMinutesDown": {}
+    "time": 160,
+    "timeDay": 950,
+    "timeWeek": 421,
+    "timeMonth": 229,
+    "timeYear": 160,
+    "dailyMinutesDown": {
+      "2023-06-22": 1
+    }
   },
   {
     "name": "WhatsApp Server",
