@@ -22,19 +22,19 @@
     "url": "https://api.skiptheswipes.com",
     "icon": "https://api.skiptheswipes.com/assets/images/logo.png",
     "slug": "skip-the-swipes-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 160,
-    "timeDay": 950,
-    "timeWeek": 421,
-    "timeMonth": 229,
+    "timeDay": 683,
+    "timeWeek": 391,
+    "timeMonth": 227,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-06-22": 1
+      "2023-06-22": 17
     }
   },
   {
