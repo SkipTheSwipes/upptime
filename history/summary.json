@@ -79,17 +79,19 @@
     "url": "https://skiptheswag.com",
     "icon": "https://cdn.shopify.com/s/files/1/0757/1341/3430/files/logo_2.png?v=1682285571&width=500",
     "slug": "skip-the-swag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 185,
-    "timeWeek": 157,
-    "timeMonth": 176,
-    "timeYear": 184,
-    "dailyMinutesDown": {}
+    "time": 182,
+    "timeDay": 124,
+    "timeWeek": 145,
+    "timeMonth": 172,
+    "timeYear": 182,
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   }
 ]
