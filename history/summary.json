@@ -23,18 +23,18 @@
     "icon": "https://api.skiptheswipes.com/assets/images/logo.png",
     "slug": "skip-the-swipes-api",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.00%",
+    "uptimeDay": "20.32%",
+    "uptimeWeek": "88.62%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "99.00%",
     "time": 193,
     "timeDay": 244,
     "timeWeek": 232,
     "timeMonth": 241,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-07-30": 0,
+      "2023-07-30": 1147,
       "2023-07-16": 73,
       "2023-06-22": 17
     }
@@ -44,7 +44,7 @@
     "url": "$WHATSAPP_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whats-app-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 83,
     "timeMonth": 92,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-30": 0
+    }
   },
   {
     "name": "Discord Bot Server",
