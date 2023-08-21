@@ -23,11 +23,11 @@
     "icon": "https://api.skiptheswipes.com/assets/images/logo.png",
     "slug": "skip-the-swipes-api",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.17%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 208,
     "timeDay": 130,
     "timeWeek": 208,
@@ -82,17 +82,19 @@
     "url": "https://skiptheswag.com",
     "icon": "https://cdn.shopify.com/s/files/1/0757/1341/3430/files/logo_2.png?v=1682285571&width=500",
     "slug": "skip-the-swag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 128,
-    "timeWeek": 215,
-    "timeMonth": 169,
+    "timeDay": 151,
+    "timeWeek": 210,
+    "timeMonth": 170,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-21": 0
+    }
   }
 ]
