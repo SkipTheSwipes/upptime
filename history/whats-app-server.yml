@@ -1,7 +1,7 @@
 url: $WHATSAPP_SERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-04T23:16:42.099Z
+status: up
+code: 200
+responseTime: 38
+lastUpdated: 2024-03-05T17:38:20.895Z
 startTime: 2023-05-16T20:07:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
