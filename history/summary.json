@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/skiptheswipes.com.ico",
     "slug": "skip-the-swipes",
     "status": "down",
-    "uptime": "32.32%",
+    "uptime": "32.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.08%",
-    "time": 294,
+    "uptimeYear": "8.81%",
+    "time": 295,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 237,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-09-07": 65,
+      "2024-09-08": 72,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -348,8 +349,7 @@
       "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
-      "2023-09-10": 1440,
-      "2023-09-09": 1440
+      "2023-09-10": 1440
     }
   },
   {
@@ -358,18 +358,19 @@
     "icon": "https://api.skiptheswipes.com/assets/images/logo.png",
     "slug": "skip-the-swipes-api",
     "status": "down",
-    "uptime": "32.07%",
+    "uptime": "32.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.08%",
+    "uptimeYear": "8.81%",
     "time": 189,
-    "timeDay": 111,
-    "timeWeek": 115,
-    "timeMonth": 113,
+    "timeDay": 59,
+    "timeWeek": 105,
+    "timeMonth": 107,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-09-07": 65,
+      "2024-09-08": 72,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -701,8 +702,7 @@
       "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
-      "2023-09-10": 1440,
-      "2023-09-09": 1440
+      "2023-09-10": 1440
     }
   },
   {
@@ -711,18 +711,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whats-app-server",
     "status": "down",
-    "uptime": "41.01%",
+    "uptime": "40.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.55%",
+    "uptimeYear": "22.27%",
     "time": 80,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-09-07": 65,
+      "2024-09-08": 72,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -1016,18 +1017,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "discord-bot-server",
     "status": "down",
-    "uptime": "23.60%",
+    "uptime": "23.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.27%",
+    "uptimeYear": "0.00%",
     "time": 160,
-    "timeDay": 55,
-    "timeWeek": 102,
-    "timeMonth": 99,
-    "timeYear": 148,
+    "timeDay": 64,
+    "timeWeek": 89,
+    "timeMonth": 98,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-09-07": 65,
+      "2024-09-08": 72,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -1390,8 +1392,7 @@
       "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
-      "2023-09-10": 1440,
-      "2023-09-09": 1440
+      "2023-09-10": 1440
     }
   },
   {
@@ -1400,7 +1401,7 @@
     "icon": "https://cdn.shopify.com/s/files/1/0757/1341/3430/files/logo_2.png?v=1682285571&width=500",
     "slug": "skip-the-swag",
     "status": "down",
-    "uptime": "23.93%",
+    "uptime": "23.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1411,7 +1412,8 @@
     "timeMonth": 0,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-09-07": 65,
+      "2024-09-08": 72,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -1765,8 +1767,7 @@
       "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
-      "2023-09-10": 1440,
-      "2023-09-09": 1440
+      "2023-09-10": 1440
     }
   }
 ]
