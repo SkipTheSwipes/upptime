@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/skiptheswipes.com.ico",
     "slug": "skip-the-swipes",
     "status": "down",
-    "uptime": "31.61%",
+    "uptime": "31.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "8.62%",
-    "time": 301,
+    "time": 302,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-09-18": 67,
+      "2024-09-19": 68,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -348,8 +349,7 @@
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
-      "2023-09-21": 1440,
-      "2023-09-20": 1440
+      "2023-09-21": 1440
     }
   },
   {
@@ -358,18 +358,19 @@
     "icon": "https://api.skiptheswipes.com/assets/images/logo.png",
     "slug": "skip-the-swipes-api",
     "status": "down",
-    "uptime": "31.37%",
+    "uptime": "31.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "8.62%",
     "time": 190,
-    "timeDay": 81,
-    "timeWeek": 127,
-    "timeMonth": 102,
+    "timeDay": 88,
+    "timeWeek": 126,
+    "timeMonth": 103,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-09-18": 67,
+      "2024-09-19": 68,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -701,8 +702,7 @@
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
-      "2023-09-21": 1440,
-      "2023-09-20": 1440
+      "2023-09-21": 1440
     }
   },
   {
@@ -711,18 +711,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whats-app-server",
     "status": "down",
-    "uptime": "40.09%",
+    "uptime": "40.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.54%",
-    "time": 81,
+    "uptimeYear": "19.26%",
+    "time": 82,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 73,
+    "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-09-18": 67,
+      "2024-09-19": 68,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -1027,18 +1028,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "discord-bot-server",
     "status": "down",
-    "uptime": "23.07%",
+    "uptime": "23.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 159,
-    "timeDay": 80,
-    "timeWeek": 123,
-    "timeMonth": 97,
+    "timeDay": 88,
+    "timeWeek": 116,
+    "timeMonth": 98,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-09-18": 67,
+      "2024-09-19": 68,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -1401,8 +1403,7 @@
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
-      "2023-09-21": 1440,
-      "2023-09-20": 1440
+      "2023-09-21": 1440
     }
   },
   {
@@ -1411,7 +1412,7 @@
     "icon": "https://cdn.shopify.com/s/files/1/0757/1341/3430/files/logo_2.png?v=1682285571&width=500",
     "slug": "skip-the-swag",
     "status": "down",
-    "uptime": "23.41%",
+    "uptime": "23.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1422,7 +1423,8 @@
     "timeMonth": 0,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-09-18": 67,
+      "2024-09-19": 68,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -1776,8 +1778,7 @@
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
-      "2023-09-21": 1440,
-      "2023-09-20": 1440
+      "2023-09-21": 1440
     }
   }
 ]
